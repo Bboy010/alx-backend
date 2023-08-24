@@ -5,11 +5,11 @@
 ```Create a class FIFOCache that inherits from BaseCaching and is a caching system```
 
 ### task 1 : FIFO caching
-* [fifo cache](./1-fifo_cache.py)
+* [FIFO cache](./1-fifo_cache.py)
 ```Create a class FIFOCache that inherits from BaseCaching and is a caching system:```
 
 ### task 2 : LIFO Caching
-* [lifo cache](./2-lifo_cache.py)
+* [LIFO cache](./2-lifo_cache.py)
 ```Create a class LIFOCache that inherits from BaseCaching and is a caching system:```
 
 ### task 3 : LRU Caching
