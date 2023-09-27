@@ -78,6 +78,6 @@
 12. [In stock?](./9-stock.js)
 13. [Can I have a seat?](./100-seat.js)
 
-- [💉] Write the press release
+- [💉] boom
 ---
 ## Author <hkoffianderson@gmai.com>
